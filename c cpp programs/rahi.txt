@@ -1,0 +1,2 @@
+Hello to all!
+This is demo file for operation test like open close read write.

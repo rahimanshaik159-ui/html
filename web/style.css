@@ -1,0 +1,45 @@
+h2{
+    color:blue;
+    font-family:arial;
+    font-size:30px;
+    font-weight:bold;
+    text-align:center;
+
+}
+form{
+    background-color:#fe2222;
+    width:300px;
+    padding:20px;
+    border-radius:10px;
+    margin:auto;
+}
+input{
+    width:90%;
+    padding:10px;
+    margin:10px 0;
+    border-radius:5px;
+    border:1px solid #ccc;
+}
+button{
+    background-color:blue;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+button:hover{
+    background-color:darkblue;
+}
+body{
+    font-family:verdana;
+    background-color:hsl(195, 98%, 49%);
+    margin:0;
+    padding:0;
+}
+label{
+    font-size:20px;
+}
+background-color{
+    lighting-color: blue;
+}   
